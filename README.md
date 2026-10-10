@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# TripWise — AI Travel Booking Platform
+
+Quick Start...
 # TripWise — AI Travel Booking Platform
 
 ## Quick Start
@@ -18,4 +20,3 @@ Then open:
 
 **TITLE:-**
 **AI-Based Smart Travel Experience Personalization and Booking  Ecosystem**
->>>>>>> 83b0bce2c4db3674c780d6a80dc4bfb4bdde0e1a
